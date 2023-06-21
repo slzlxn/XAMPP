@@ -12,3 +12,5 @@ http://localhost/phpmyadmin/
 로컬c에서 program Data 에서 mysql 삭제
 안되면
 명령프롬프트에서 
+
+# http://slzlxn.dothome.co.kr/php/member/mem_form.php
