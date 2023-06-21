@@ -1,4 +1,4 @@
-# XAMPP
+# XAMPP/ php dothome연결
 
 ### 내 주소
 http://localhost/green/mem_form.php
